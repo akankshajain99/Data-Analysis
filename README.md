@@ -1,2 +1,2 @@
-# Data-Analysis
-Data Analysis Projects.
+Vrinda Store Data Analysis using MS Excel - By @rishabhnmishra
+
